@@ -12,10 +12,5 @@
 
 ## Тема ВКР
  "Разработка системы автоматического тестирования на основе Python"
- git add README.MD
-git commit -m "Добавлен README с информацией о себе"
-git push origin main  # или master, в зависимости от вашего репозитория
-git add README.MD
-git commit -m
-git push origin main
+
 
